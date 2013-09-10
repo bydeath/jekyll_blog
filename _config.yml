@@ -2,7 +2,7 @@ title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://kikyous.github.io/jekyll_blog
 
 # Owner/author information
 owner:
