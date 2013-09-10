@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Beauty of freedom
+description:      Everything has its beauty but not everyone sees it
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
 url:              http://kikyous.github.io/jekyll_blog
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           kikyous
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          kikyous@163.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
